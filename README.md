@@ -14,7 +14,7 @@ Below is a quick example how to use:
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
     <!--[if lt IE 10]> 
-        <script src="lpisb-placeholders.js"></script>
+        <script src="saba-old-placeholders"></script>
     <![endif]-->
 </head>
 <body>
